@@ -93,7 +93,7 @@ img:last-of-type {
 }
 
 #title {
-  background-image: "/leafy.jpeg";
+  background-image: url("leafy.jpeg");
   z-index:2;
 }
 

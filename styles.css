@@ -104,7 +104,7 @@ img:last-of-type {
 }
 
 #slide1:before {
-  background-image: url("cap.jpg");
+  background-image: url("https://github.com/PrasannaNivedha/darkslide/blob/main/cap.jpg");
   transform: translateZ(-1px) scale(2);
 }
 

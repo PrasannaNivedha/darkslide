@@ -104,17 +104,17 @@ img:last-of-type {
 }
 
 #slide1:before {
-  background-image: url("/cap.jpg");
+  background-image: url("cap.jpg");
   transform: translateZ(-1px) scale(2);
 }
 
 #slide2 {
-  background-image: url("/eye.jpg");
+  background-image: url("eye.jpg");
   z-index:2;
 }
 
 #slide3:before {
-  background-image: url("/map.jpg");
+  background-image: url("map.jpg");
   transform: translateZ(-1px) scale(2);
 }
 

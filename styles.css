@@ -121,3 +121,8 @@ img:last-of-type {
 #slide4 {
   background: #222;
 }
+
+a {
+  position: relative;
+  color: rgb(239, 126, 162);
+}
